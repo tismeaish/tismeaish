@@ -1,4 +1,4 @@
-## Hi there 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F734EB&width=435&lines=Hi%2C+I'm+Aishwarya+Govindarajan;and+this+is+me+profile" alt="Typing SVG" /></a>
 <p align="center">
   <img src="https://raw.githubusercontent.com/tismeaish/tismeaish/main/Hi, I’m Aishwarya Govindarajan. and this is my profile..png"
        width="100%" alt="Profile Banner"/>
