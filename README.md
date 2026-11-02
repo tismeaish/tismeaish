@@ -17,7 +17,7 @@
 <h3 align="center">Languages and Tools</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,pandas,numpy, fastapi,js,react,nodejs,express,dart,mongodb,mysql,flask,tensorflow,git,github,arduino&perline=7"/>
+<img src="https://skillicons.dev/icons?i=python,pandas,numpy,fastapi,js,react,nodejs,express,dart,mongodb,mysql,flask,tensorflow,git,github,arduino&perline=7"/>
 </p>
 
 
