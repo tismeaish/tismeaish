@@ -1,8 +1,18 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F734EB&width=435&lines=Hi%2C+I'm+Aishwarya+Govindarajan;I'm+an+AI+and+ML+enthusiast;and+this+is+my+profile" alt="Typing SVG" /></a>
+<!-- INTRODUCTION-->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F734EB&width=435&lines=Hi%2C+I'm+Aishwarya+Govindarajan.;I'm+an+AI+and+ML+enthusiast,;and+this+is+my+profile." alt="Typing SVG" /></a>
+<!-- BANNER-->
 <p align="center">
   <img src="https://raw.githubusercontent.com/tismeaish/tismeaish/main/Hi, I’m Aishwarya Govindarajan. and this is my profile..png"
        width="100%" alt="Profile Banner"/>
 </p>
+<!-- TOOLS-->
+<h3 align="center">Languages and Tools</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,fastapi,js,react,nodejs,express,mongodb,flask,tensorflow,git,github,arduino&perline=7"/>
+</p>
+
+
 <!--
 **tismeaish/tismeaish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
