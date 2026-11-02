@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tismeaish/tismeaish/main/banner.png"
+  <img src="https://raw.githubusercontent.com/tismeaish/tismeaish/main/Hi, I’m Aishwarya Govindarajan. and this is my profile..png"
        width="100%" alt="Profile Banner"/>
 </p>
 <!--
