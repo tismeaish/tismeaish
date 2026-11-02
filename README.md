@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tismeaish/tismeaish/main/banner.png"
+       width="100%" alt="Profile Banner"/>
+</p>
 <!--
 **tismeaish/tismeaish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
