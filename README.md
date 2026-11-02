@@ -1,4 +1,5 @@
 <!-- INTRODUCTION-->
+<h1></h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F734EB&width=435&lines=Hi%2C+I'm+Aishwarya+Govindarajan.;I'm+an+AI+and+ML+enthusiast,;and+this+is+my+profile." alt="Typing SVG" /></a>
 <!-- BANNER-->
 <p align="center">
@@ -7,7 +8,7 @@
 </p>
 
 <!--LINKEDIN-->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F734EB&width=435&lines=connect+with+me" alt="Typing SVG" /></a>
+<h2 align="center"> connect with me</h2>
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_USERNAME">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
